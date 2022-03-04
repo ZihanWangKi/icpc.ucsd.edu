@@ -4,23 +4,23 @@ title = "Competitive Programming at UCSD"
 
 [menu]
   [[menu.main]]
-    identifier = "news"
-    name = "News section"
-    title = "News"
-    url = "/news/"
-  [[menu.main]]
     identifier = "about"
-    name = "About section"
+    name = "main-0"
     title = "About"
     url = "/about/"
   [[menu.main]]
-    identifier = "calendar"
-    name = "Event calendar"
-    title = "Calendar"
-    url = "/calendar/"
+    identifier = "news"
+    name = "main-1"
+    title = "News"
+    url = "/news/"
   [[menu.main]]
     identifier = "resources"
-    name = "Competitve programming resources"
+    name = "main-2"
     title = "Resources"
     url = "/resources/"
+  [[menu.main]]
+    identifier = "calendar"
+    name = "main-3"
+    title = "Calendar"
+    url = "/calendar/"
 
