@@ -9,9 +9,9 @@ student-org organized to help students learn techniques for solving problems
 with computer algorithms and to compete in algorithmic programming competitions.
 
 Our primary focus is preparing for and competing in the yearly
-[International Collegiate Programming Contest (ICPC)](https://icpc.global/). 
-
-We compete in the [SoCal ICPC region](http://socalcontest.org/current/index.shtml).
+[International Collegiate Programming Contest (ICPC)](https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest).
+We compete in the [SoCal ICPC region](http://socalcontest.org/current/index.shtml), and teams can advance to the 
+[North America Championship](https://nac.icpc.global/) and the [World Finals]((https://icpc.global/)).
 
 The primary form of communication for the club is our
 [Slack workspace](https://join.slack.com/t/ucsdcp/signup), so join that for
@@ -21,7 +21,8 @@ This site is currently under heavy construction.
 
 ## Upcoming Events
 - During Winter Quarter 2022, weekly meetings are happening every Tuesday from 8pm - 9:30 pm PT. The meetings
-  feature on a 70 minutes contest with explanations afterwards. *All skill levels welcome!*
+  feature on a 70 minutes contest with explanations afterwards, sign in the slack workspace for more details. 
+  *All skill levels welcome!*
 - ~~During Winter Quarter 2021, there will be weekly meetings every Monday from
   [4-6 PM PST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210104T160000&p1=770).
   During the meetings we will discuss problems and algorithms in different

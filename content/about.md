@@ -6,7 +6,7 @@ draft: false
 
 # About
 
-The Competitive Programming Club at UCSD is an undergraduate student organization.
+The Competitive Programming Club at UCSD is a student-led organization.
 The current leadership is:
 
 - President: [Zihan Wang](mailto:ziw224@ucsd.edu)
