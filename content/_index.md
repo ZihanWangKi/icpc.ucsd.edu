@@ -1,28 +1,34 @@
 ---
-title: "Competitive Programming at UCSD"
 date: 2020-12-20T20:50:26-08:00
 draft: false
 ---
 
-Welcome to the homepage for competitive programming at UCSD. We are a
-student-org organized to help students learn techniques for solving problems 
+Welcome to the homepage for Competitive Programming @ UCSD Student Org. We help students learn techniques for solving problems 
 with computer algorithms and to compete in algorithmic programming competitions.
 
+# Primary Focus 
 Our primary focus is preparing for and competing in the yearly
 [International Collegiate Programming Contest (ICPC)](https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest).
 We compete in the [SoCal ICPC region](http://socalcontest.org/current/index.shtml), and teams can advance to the 
-[North America Championship](https://nac.icpc.global/) and the [World Finals]((https://icpc.global/)).
+[North America Championship](https://nac.icpc.global/) and eventually to the [World Finals]((https://icpc.global/)).
 
-The primary form of communication for the club is our
-[Slack workspace](https://join.slack.com/t/ucsdcp/signup), so join that for
-updates.
+#### Introduction to ICPC
 
-This site is currently under heavy construction. 
+{{< youtube dBabBbxPE7w >}}
 
-## Upcoming Events
-- During Winter Quarter 2022, weekly meetings are happening every Tuesday from 8pm - 9:30 pm PT. The meetings
+
+
+{{< rawhtml >}}
+  <br> </br>
+  <br> </br>
+{{< /rawhtml >}}
+
+### Join us: [Slack Workspace for CP@UCSD](https://join.slack.com/t/ucsdcp/signup).
+## Upcoming Events   
+- Spring Quarter 2022, TBD. 
+- ~~During Winter Quarter 2022, weekly meetings are happening every Tuesday from 8pm - 9:30 pm PT. The meetings
   feature on a 70 minutes contest with explanations afterwards, sign in the slack workspace for more details. 
-  *All skill levels welcome!*
+  *All skill levels welcome!*~~
 - ~~During Winter Quarter 2021, there will be weekly meetings every Monday from
   [4-6 PM PST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210104T160000&p1=770).
   During the meetings we will discuss problems and algorithms in different
@@ -35,4 +41,8 @@ This site is currently under heavy construction.
   [chart](https://icpc.global/newcms/regionals/rules/EligibilityDecisionTree-2020.pdf).~~
 - ~~[Practice contests](https://www.icpc.org/icpc-north-america-practice-contest)
   are available regularly on the weekends organized through ICPC North America.~~
+
+
+
+
 

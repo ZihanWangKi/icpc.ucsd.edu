@@ -4,18 +4,17 @@ title = "Competitive Programming at UCSD"
 
 [menu]
   [[menu.main]]
-    identifier = "about"
+    identifier = "teams"
     name = "main-0"
-    title = "About"
-    url = "/about/"
+    title = "Teams"
+    url = "/teams/"
   [[menu.main]]
     identifier = "news"
     name = "main-1"
-    title = "News"
+    title = "Contact Us"
     url = "/news/"
   [[menu.main]]
-    identifier = "resources"
+    identifier = "Resources"
     name = "main-2"
     title = "Resources"
     url = "/resources/"
-
