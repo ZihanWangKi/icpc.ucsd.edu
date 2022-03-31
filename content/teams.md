@@ -12,7 +12,7 @@ The current leadership is:
 - **President**: [Zihan Wang](mailto:ziw224@ucsd.edu) 
 - **Coaching Team**: Zihan Wang, Shuxin Chen
 - **Faculty Advisor**: [Jingbo Shang](https://shangjingbo1226.github.io/), [Joe Politz](https://jpolitz.github.io/)
-- Principal and Admin Members: Kewen Zhao, Sunwoo Kim, Max Morehead, Zhizhen Yu
+- Principal and Admin Members: Kewen Zhao, Sunwoo Kim, Zhizhen Yu
 
 ## UCSD Teams in Competitions
 

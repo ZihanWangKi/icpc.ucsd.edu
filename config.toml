@@ -12,7 +12,7 @@ title = "Competitive Programming at UCSD"
     identifier = "Contact"
     name = "main-1"
     title = "Contact Us"
-    url = "/news/"
+    url = "/contact/"
   [[menu.main]]
     identifier = "Resources"
     name = "main-2"
