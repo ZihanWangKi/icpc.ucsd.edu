@@ -9,22 +9,17 @@ draft: false
 The Competitive Programming Club at UCSD is a student-led organization.
 The current leadership is:
 
-- President: [Zihan Wang](mailto:ziw224@ucsd.edu)
-- Principal Member: Kewen Zhao, Sunwoo Kim
-- Coaching Team: Zihan Wang, Shuxin Chen
-- Faculty Advisor: [Jingbo Shang](https://shangjingbo1226.github.io/), [Joe Politz](https://jpolitz.github.io/)
-
+- **President**: [Zihan Wang](mailto:ziw224@ucsd.edu) 
+- **Coaching Team**: Zihan Wang, Shuxin Chen
+- **Faculty Advisor**: [Jingbo Shang](https://shangjingbo1226.github.io/), [Joe Politz](https://jpolitz.github.io/)
+- Principal and Admin Members: Kewen Zhao, Sunwoo Kim, Max Morehead, Zhizhen Yu
 
 ## UCSD Teams in Competitions
 
-{{< figure src="/images/all.jpeg" alt="allTeams.jpeg" width="1000px" title="All teams @ICPC_2021-2022">}}
-
-
-
-
+{{< figure src="/images/all.jpeg" alt="allTeams.jpeg" width="975px" title="All teams @ICPC_2021-2022">}}
 
 - For ICPC 2021-2022 this year, UCSD Team Two (Chengsong Diao, Dun Ma, and Shuangmu Hu) advanced to North America Championship. Before that, six teams represented our school to participate in the SoCal ICPC Regional. Our best two teams placed
-[thrid and seventh](http://socalcontest.org/history/2021/SC2021-2022-FinalResults.html). Check our [photos](https://www.facebook.com/permalink.php?story_fbid=5403904259649052&id=112453688794162) about this!
+[thrid and seventh](http://socalcontest.org/history/2021/SC2021-2022-FinalResults.html). Check out our [Facebook post](https://www.facebook.com/permalink.php?story_fbid=5403904259649052&id=112453688794162) for more!
 
 - For ICPC 2020-2021, we sent five teams to the SoCal ICPC Regional, our best two teams placed [first and third
 in the regional](http://socalcontest.org/history/2020/SC2020-2021-FinalResults.html).

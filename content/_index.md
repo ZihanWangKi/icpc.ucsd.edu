@@ -4,7 +4,11 @@ draft: false
 ---
 
 Welcome to the homepage for Competitive Programming @ UCSD Student Org. We help students learn techniques for solving problems 
-with computer algorithms and to compete in algorithmic programming competitions.
+with computer algorithms and to compete in algorithmic programming competitions.   
+{{< rawhtml >}}
+<button class="joinText" onclick="window.location.href = 'https://join.slack.com/t/ucsdcp/signup';"> > Join Us on Slack
+ </button>
+{{< /rawhtml >}}
 
 # Primary Focus 
 Our primary focus is preparing for and competing in the yearly
@@ -12,19 +16,15 @@ Our primary focus is preparing for and competing in the yearly
 We compete in the [SoCal ICPC region](http://socalcontest.org/current/index.shtml), and teams can advance to the 
 [North America Championship](https://nac.icpc.global/) and eventually to the [World Finals]((https://icpc.global/)).
 
-#### Introduction to ICPC
+**A Brief Word About ICPC**
+The ACM International Collegiate Programming Contest (ICPC) is a multitier, team-based, programming competition operating under the Association for Computing Machinery (ACM). The contest involves a global network of universities that advance teams to the World Finals. It is the oldest, largest, and most prestigious programming contest in the world. Link to ICPC introduction video for past year competitions: [ICPC_News](https://www.youtube.com/watch?v=dBabBbxPE7w).
+<!-- {{< youtube dBabBbxPE7w >}} -->
 
-{{< youtube dBabBbxPE7w >}}
-
-
-
-{{< rawhtml >}}
+<!-- {{< rawhtml >}}
   <br> </br>
-  <br> </br>
-{{< /rawhtml >}}
+{{< /rawhtml >}} -->
 
-### Join us: [Slack Workspace for CP@UCSD](https://join.slack.com/t/ucsdcp/signup).
-## Upcoming Events   
+# Upcoming Events   
 - Spring Quarter 2022, TBD. 
 - ~~During Winter Quarter 2022, weekly meetings are happening every Tuesday from 8pm - 9:30 pm PT. The meetings
   feature on a 70 minutes contest with explanations afterwards, sign in the slack workspace for more details. 
