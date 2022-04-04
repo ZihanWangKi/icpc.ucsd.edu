@@ -25,7 +25,7 @@ The ACM International Collegiate Programming Contest (ICPC) is a multitier, team
 {{< /rawhtml >}} -->
 
 # Upcoming Events   
-- Spring Quarter 2022, TBD. 
+- In the Spring Quarter 2022, weekly meetings will be **every Thursday from 7pm to 9 pm PT at CSE basement B240**. 
 - ~~During Winter Quarter 2022, weekly meetings are happening every Tuesday from 8pm - 9:30 pm PT. The meetings
   feature on a 70 minutes contest with explanations afterwards, sign in the slack workspace for more details. 
   *All skill levels welcome!*~~
